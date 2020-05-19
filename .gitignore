@@ -1,0 +1,7 @@
+# Data folder
+sec_edgar_filings/
+CSV_Files/
+# Jupyter Notebook
+.ipynb_checkpoints
+# iOS DS_Store
+.DS_Store
