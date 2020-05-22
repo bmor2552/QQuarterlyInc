@@ -11,6 +11,7 @@ The goal of this data analysis was to use the 10-Q reports of companies to condu
 # The Problem
 
 # The Solution
+Automates the task of customer preference reports. predicting the results of events like presidential campaigns or award ceremonies.
 
 # The Data 
 The data came from a list of NYSE Companies that were registered with the SEC. More details on the data can be found in the Step_1 notebook, located in the Repository Guide section.
@@ -23,7 +24,7 @@ The data came from a list of NYSE Companies that were registered with the SEC. M
 
 3. Explore The Data
 
-4. Model The Data
+4. Model The Data Using Dictionary Based Sentiment Analysis
 
 # The Model
 
