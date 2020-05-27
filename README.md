@@ -1,23 +1,18 @@
 # Q. Quarterly Inc.
 **Foreseeing Future Returns, With Just A Timeframe & Company Name**
 
-# The Project 
-We have now reached the end of the program! To "showcase" the skills we have obtained during our time here at the Flatiron Data Science Bootcamp, we have put together "a professional-level data science project" using our own choice of data. 
+**The Project:**  We have now reached the end of the program! To "showcase" the skills we have obtained during our time here at the Flatiron Data Science Bootcamp, we have put together "a professional-level data science project" using our own choice of data. 
 
 
-# The Goal 
-The goal was to use the 10-Q reports of a company to conduct a sentiment analysis. Based off of the language of the documents one would be able to check for patterns that would show a relationship between a change in stock price & the document itself.
+**The Goal:**  The goal was to use the 10-Q reports of a company to conduct a sentiment analysis. Based off of the language of the documents one would be able to check for patterns that would show a relationship between a change in stock price & the document itself.
 
-# The Problem
-The stock market is a scary place for some people, and can be overwhelming at times. With the long hours of research, economic surprises (aka corona virus), & charts overload, where does one begin.     
+**The Problem:**  The stock market is a scary place for some people, and can be overwhelming at times. With the long hours of research, economic surprises (aka corona virus), & charts overload, where does one begin.     
 
-# The Solution
-Here at Q Quarterly Inc. we have developed a fundamental analysis department and technical analysis deparment to do the work for you. All you have to do is give us a company name and time frame. 
+**The Solution:**  Here at Q Quarterly Inc. we have developed a fundamental analysis department and technical analysis deparment to do the work for you. All you have to do is give us a company name and time frame. 
 
-# The Data 
-The data came from a list of NYSE Companies that were registered with the SEC. More details on the data can be found in the Data Gathering & Cleaning notebook, located in the Repository Guide.
+**The Data:**  The data came from a list of NYSE Companies that were registered with the SEC. More details on the data can be found in the Data Gathering & Cleaning notebook, located in the Repository Guide.
 
-# The Process
+**The Process**
 
 1. Gather The Data
 
