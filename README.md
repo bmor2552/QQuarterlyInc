@@ -28,7 +28,7 @@ The wording of the 10-Q reports did have some correlation with the price change 
 
 
 # Future Recommendations
-In the future I would like to take in more companies for sentiment analysis. I would also like to select a couple of fundamental analysis techniques to focus my search for more text data; 10-k documents, accredited news articles, etc.. The more text data I have from specific sources the better chance I have at finding a pattern. The outliers in the data would be a point of focus in the future, as well as tokenizing the data to see if sentences or words improve the sentiment analysis values vs the body of text.  
+In the future I would like to take in more companies for sentiment analysis. I would also like to select a couple of fundamental analysis techniques to focus my search for more text data; 10-k documents, accredited news articles, etc.. The more text data I have from specific sources the better chance I have at finding a pattern. The outliers in the data would be a point of focus in the future, as well as tokenizing the data to see if sentences or words improve the sentiment analysis values vs the body of text. Lastly I would look into parsing the numbers of the documnet to further improve the sentiment analysis.   
 
 # Repository Guide
 
