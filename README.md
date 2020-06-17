@@ -28,13 +28,13 @@
 # Conclusion
 The wording of the 10-Q reports did have some correlation with the price change of Southern Co, but not as much as the market price change. See Sentiment Analysis Notebook for more details.
 # The Market vs. Price Change
-![The Market](https://media-private.canva.com/xss_g/MAD9acxss_g/1/tl.png?response-expires=Thu%2C%2011%20Jun%202020%2009%3A00%3A38%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T061657Z&X-Amz-SignedHeaders=host&X-Amz-Expires=9820&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00d88c53566d17c534b691d114d8ae9fb6736320c12dd915a6f13b7f0196728c) 
+![The Market](SP500.png) 
 
 # 10Q Polarity vs. Price Change
-![Polarity](https://media-private.canva.com/act3M/MAD9aUact3M/1/tl.png?response-expires=Thu%2C%2011%20Jun%202020%2008%3A49%3A55%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T061657Z&X-Amz-SignedHeaders=host&X-Amz-Expires=9177&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5a345f1c50794cddc94c1601c3094f50dfb4bf889d8e9259096eebc935ea572f) 
+![Polarity](Polarity.png) 
 
 # 10Q Subjectivity vs. Price Change
-![Subjectivity](https://media-private.canva.com/a3nZg/MAD9aaa3nZg/1/tl.png?response-expires=Thu%2C%2011%20Jun%202020%2008%3A20%3A38%20GMT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200611T061657Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7420&X-Amz-Credential=AKIAJWF6QO3UH4PAAJ6Q%2F20200611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=121b25b8bf8379aa95c36077d3113c5994e38580e21b15e0937eb067cd14e416) 
+![Subjectivity](Subjectivity.png) 
 
 
 # Future Recommendations
